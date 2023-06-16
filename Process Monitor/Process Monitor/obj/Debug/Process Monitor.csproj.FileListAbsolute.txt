@@ -1,0 +1,10 @@
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\bin\Debug\Process Monitor.exe.config
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\bin\Debug\Process Monitor.exe
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\bin\Debug\Process Monitor.pdb
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\obj\Debug\Process Monitor.csprojAssemblyReference.cache
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\obj\Debug\Process_Monitor.Form1.resources
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\obj\Debug\Process_Monitor.Properties.Resources.resources
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\obj\Debug\Process Monitor.csproj.GenerateResource.cache
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\obj\Debug\Process Monitor.csproj.CoreCompileInputs.cache
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\obj\Debug\Process Monitor.exe
+C:\Users\Mf4Tn\source\repos\Process Monitor\Process Monitor\obj\Debug\Process Monitor.pdb
