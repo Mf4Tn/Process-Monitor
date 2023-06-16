@@ -14,3 +14,5 @@ Key Features:
 
 
 Feel free to contribute, suggest improvements, or report issues on the GitHub repository. Thanks For Using ❤️
+
+![image](https://github.com/Mf4Tn/Process-Monitor/assets/75338199/ddd4c5f5-991c-4455-8898-2c803c39b65f)
