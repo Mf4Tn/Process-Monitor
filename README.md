@@ -12,7 +12,7 @@ Key Features:
 
 - Whether you're a developer, system administrator, or a curious user, the Process Monitor Tool provides a comprehensive solution for managing and analyzing running processes on your machine. Boost your productivity, streamline troubleshooting, and maintain optimal system performance with this indispensable tool.
 
+![image](https://github.com/Mf4Tn/Process-Monitor/assets/75338199/ddd4c5f5-991c-4455-8898-2c803c39b65f)
+
 
 Feel free to contribute, suggest improvements, or report issues on the GitHub repository. Thanks For Using ❤️
-
-![image](https://github.com/Mf4Tn/Process-Monitor/assets/75338199/ddd4c5f5-991c-4455-8898-2c803c39b65f)
